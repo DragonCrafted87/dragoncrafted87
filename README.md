@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on upgrading my minecraft server container
-- 🌱 I’m currently learning RUST when i can find time
+- 🔭 I’m currently working on building a convenient container based build env for qt projects
+ 
 - 💬 Ask me about crazy c/c++ code i've seen that was amazinly stable for being a house of cards
 
