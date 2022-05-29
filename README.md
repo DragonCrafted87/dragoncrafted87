@@ -5,24 +5,18 @@
             src="./header.png"
         />
     </a>
-    <a href="https://app.daily.dev/DailyDevTips">
-        <img
-            align="right"
-            src="./devcard.svg"
-            width="200"
-            alt="Dev Card"
-        />
-    </a>
 </p>
 
-<p>
+<p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img
-            src="https://github-profile-trophy.vercel.app/?username=dragoncrafted87&theme=dracula&column=3&margin-w=15&margin-h=15&rank=-C,-B"
+            src="https://github-profile-trophy.vercel.app/?username=dragoncrafted87&theme=dracula&margin-w=15&margin-h=15&rank=-C,-B"
             alt="trophies"
         />
     </a>
 </p>
+
+<table><tr><td valign="top" width="50%">
 
 <h3>Social Dealies:</h3>
 <p>
@@ -133,15 +127,23 @@
     </a>
 </p>
 
-<p>
+</td><td valign="top" width="50%">
+<p align="right">
+    <a href="https://app.daily.dev/DailyDevTips">
+        <img
+            src="./devcard.svg"
+            width="200"
+            alt="Dev Card"
+        />
+    </a>
     <img
-        align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=dragoncrafted87&show_icons=true&locale=en&layout=compact&hide=lua&langs_count=8&theme=dracula"
         alt="dragoncrafted87"
     />
     <img
-        align="center"
         src="https://github-readme-stats.vercel.app/api?username=dragoncrafted87&show_icons=true&locale=en&theme=dracula&custom_title=Github%20Stats&count_private=true"
         alt="dragoncrafted87"
     />
 </p>
+
+</td></tr></table>
