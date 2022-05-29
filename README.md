@@ -16,7 +16,7 @@
     </a>
 </p>
 
-<table><tr style="border: none;"><td valign="top" width="50%" style="border: none;">
+<table style="border: none;"><tr style="border: none;"><td valign="top" width="50%" style="border: none;">
     <h3>Social Dealies:</h3>
     <p>
         <a href="https://twitter.com/dragoncrafted87">
@@ -122,6 +122,11 @@
             />
         </a>
     </p>
+    <p>
+        <a href="https://github.com/PiyushSuthar/github-readme-quotes">
+            <img src="https://quotes-github-readme.vercel.app/api?theme=monokai"/>
+        </a>
+    </p>
 </td>
 <td valign="top" width="50%" style="border: none;">
     <p align="right">
@@ -138,6 +143,10 @@
         />
         <img
             src="https://github-readme-stats.vercel.app/api?username=dragoncrafted87&show_icons=true&locale=en&theme=dracula&custom_title=Github%20Stats&count_private=true"
+            alt="dragoncrafted87"
+        />
+        <img
+            src="https://github-readme-streak-stats.herokuapp.com/?user=dragoncrafted87&show_icons=true&locale=en&theme=dracula"
             alt="dragoncrafted87"
         />
     </p>
