@@ -1,0 +1,23 @@
+{
+    "dictionaries": [
+        "en_US",
+        "main",
+        "misc"
+    ],
+    "dictionaryDefinitions": [
+        {
+            "addWords": true,
+            "name": "main",
+            "path": "./.cspell/main.dict"
+        }
+    ],
+    "flagWords": [
+        "hte"
+    ],
+    "language": "en",
+    "minWordLength": 3,
+    "version": "0.2",
+    "words": [
+        "githubusercontent"
+    ]
+}
